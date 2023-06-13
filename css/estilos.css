@@ -240,4 +240,8 @@ textarea{
     .contacto{
         width: 90%;
     }
+
+    .c-item{
+        height: 200px;
+    }
 }
