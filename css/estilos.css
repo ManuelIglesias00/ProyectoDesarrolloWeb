@@ -229,6 +229,18 @@ textarea{
 }
 
 
+/* mediaquerie para tablet - 768px*/
+@media screen and (max-width:768px){
+    .contacto{
+        width: 90%;
+    }
+
+    .c-item{
+        height: 400px;
+    }
+}
+
+
 /* mediaquerie para mobile */
 
 @media screen and (max-width: 480px) {
